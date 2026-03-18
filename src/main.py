@@ -1,10 +1,11 @@
 import json
 import os
 import time
+import argparse
 from crawl.scraper import get_games_list
 from ie.extractor import process_raw_titles
 
-def run_project_pipeline(nb_pages=4):
+def run_project_pipeline(nb_pages):
     all_titles = []
     
     print(f"--- Étape 1 : Crawling de {nb_pages} pages ---")
@@ -26,4 +27,16 @@ def run_project_pipeline(nb_pages=4):
     print("Succès ! Données disponibles dans data/processed_games.json")
 
 if __name__ == "__main__":
-    run_project_pipeline()
+    # Configuration des arguments de la ligne de commande
+    parser = argparse.ArgumentParser(description="Pipeline de Scraping JVC")
+    parser.add_argument(
+        "--pages", 
+        type=int, 
+        default=1, 
+        help="Nombre de pages à scanner (par défaut: 1)"
+    )
+    
+    args = parser.parse_args()
+    
+    # On lance la pipeline avec le nombre de pages choisi
+    run_project_pipeline(nb_pages=args.pages)
