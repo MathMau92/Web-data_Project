@@ -4,7 +4,7 @@ import time
 from crawl.scraper import get_games_list
 from ie.extractor import process_raw_titles
 
-def run_project_pipeline(nb_pages=2):
+def run_project_pipeline(nb_pages=4):
     all_titles = []
     
     print(f"--- Étape 1 : Crawling de {nb_pages} pages ---")
