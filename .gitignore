@@ -11,6 +11,8 @@ venv/
 # On ignore les gros datasets bruts, mais on garde les petits échantillons
 data/*
 !data/.gitkeep
+!data/graph.ttl
+!data/processed_games.json
 # Si les modèles KGE sont lourds (>100MB), on ignore
 *.pth
 *.bin

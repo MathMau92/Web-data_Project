@@ -1,278 +1,53 @@
 @prefix ex: <http://example.org/videogame/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ex:ARC_Raiders a ex:VideoGame ;
-    ex:hasTitle "ARC Raiders"^^xsd:string .
-
 ex:Animal_Crossing__New_Horizons a ex:VideoGame ;
     ex:hasTitle "Animal Crossing : New Horizons"^^xsd:string ;
     ex:isPlayedOn ex:Switch_2 .
 
-ex:Anno_117__Pax_Romana a ex:VideoGame ;
-    ex:hasTitle "Anno 117 : Pax Romana"^^xsd:string .
-
 ex:Arknights__Endfield a ex:VideoGame ;
     ex:hasTitle "Arknights : Endfield"^^xsd:string .
-
-<http://example.org/videogame/Assassin's_Creed_Shadows> a ex:VideoGame ;
-    ex:hasTitle "Assassin's Creed Shadows"^^xsd:string .
-
-ex:Atomfall a ex:VideoGame ;
-    ex:hasTitle "Atomfall"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
 
 <http://example.org/videogame/Avatar__Frontiers_of_Pandora_-_D'entre_les_Cendres> a ex:VideoGame ;
     ex:hasTitle "Avatar : Frontiers of Pandora - D'entre les Cendres"^^xsd:string .
 
-ex:Avowed a ex:VideoGame ;
-    ex:hasTitle "Avowed"^^xsd:string .
-
-ex:Batman__Arkham_Shadow a ex:VideoGame ;
-    ex:hasTitle "Batman : Arkham Shadow"^^xsd:string ;
-    ex:isPlayedOn ex:PC .
-
-ex:Battlefield_6 a ex:VideoGame ;
-    ex:hasTitle "Battlefield 6"^^xsd:string .
-
-ex:Bleach__Rebirth_of_Souls a ex:VideoGame ;
-    ex:hasTitle "Bleach : Rebirth of Souls"^^xsd:string .
-
-ex:Borderlands_4 a ex:VideoGame ;
-    ex:hasTitle "Borderlands 4"^^xsd:string ;
-    ex:isPlayedOn ex:PC .
-
-ex:Bravely_Default a ex:VideoGame ;
-    ex:hasTitle "Bravely Default"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
 ex:Cairn a ex:VideoGame ;
     ex:hasTitle "Cairn"^^xsd:string .
-
-ex:Call_of_Duty__Black_Ops_6 a ex:VideoGame ;
-    ex:hasTitle "Call of Duty : Black Ops 6"^^xsd:string .
-
-ex:Call_of_Duty__Black_Ops_7 a ex:VideoGame ;
-    ex:hasTitle "Call of Duty : Black Ops 7"^^xsd:string .
-
-ex:Capcom_Fighting_Collection_2 a ex:VideoGame ;
-    ex:hasTitle "Capcom Fighting Collection 2"^^xsd:string .
-
-ex:Civilization_VII a ex:VideoGame ;
-    ex:hasTitle "Civilization VII"^^xsd:string .
-
-ex:Clair_Obscur__Expedition_33 a ex:VideoGame ;
-    ex:hasTitle "Clair Obscur : Expedition 33"^^xsd:string .
-
-ex:Cronos__The_New_Dawn a ex:VideoGame ;
-    ex:hasTitle "Cronos : The New Dawn"^^xsd:string .
-
-ex:Cyberpunk_2077 a ex:VideoGame ;
-    ex:hasTitle "Cyberpunk 2077"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:DOOM__The_Dark_Ages a ex:VideoGame ;
-    ex:hasTitle "DOOM : The Dark Ages"^^xsd:string .
 
 ex:DRAGON_QUEST_VII_Reimagined a ex:VideoGame ;
     ex:hasTitle "DRAGON QUEST VII Reimagined"^^xsd:string .
 
-ex:Death_Stranding_2 a ex:VideoGame ;
-    ex:hasTitle "Death Stranding 2"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
-ex:Donkey_Kong_Bananza a ex:VideoGame ;
-    ex:hasTitle "Donkey Kong Bananza"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:Donkey_Kong_Bananza__Île_de_DK_et_Course_aux_émeraudes a ex:VideoGame ;
-    ex:hasTitle "Donkey Kong Bananza : Île de DK et Course aux émeraudes"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:Donkey_Kong_Country_Returns a ex:VideoGame ;
-    ex:hasTitle "Donkey Kong Country Returns"^^xsd:string ;
-    ex:isPlayedOn ex:Switch .
-
-ex:Dragon_Age__The_Veilguard a ex:VideoGame ;
-    ex:hasTitle "Dragon Age : The Veilguard"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
-ex:Dragon_Quest_III_HD-2D_Remake a ex:VideoGame ;
-    ex:hasTitle "Dragon Quest III HD-2D Remake"^^xsd:string .
-
-<http://example.org/videogame/Dragon_Quest_I_&_II_HD-2D_Remake> a ex:VideoGame ;
-    ex:hasTitle "Dragon Quest I & II HD-2D Remake"^^xsd:string .
-
-ex:Dying_Light__The_Beast a ex:VideoGame ;
-    ex:hasTitle "Dying Light : The Beast"^^xsd:string ;
-    ex:isPlayedOn ex:PC .
-
-ex:Dynasty_Warriors__Origins a ex:VideoGame ;
-    ex:hasTitle "Dynasty Warriors : Origins"^^xsd:string .
-
-ex:EA_Sports_FC_26 a ex:VideoGame ;
-    ex:hasTitle "EA Sports FC 26"^^xsd:string .
-
-ex:Elden_Ring_Nightreign a ex:VideoGame ;
-    ex:hasTitle "Elden Ring Nightreign"^^xsd:string .
-
 ex:Escape_From_Tarkov a ex:VideoGame ;
     ex:hasTitle "Escape From Tarkov"^^xsd:string ;
-    ex:isPlayedOn ex:PC .
-
-ex:F1_25 a ex:VideoGame ;
-    ex:hasTitle "F1 25"^^xsd:string .
-
-ex:FATAL_FURY__City_of_the_Wolves a ex:VideoGame ;
-    ex:hasTitle "FATAL FURY : City of the Wolves"^^xsd:string .
-
-ex:Fast_Fusion a ex:VideoGame ;
-    ex:hasTitle "Fast Fusion"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:Final_Fantasy_Tactics__The_Ivalice_Chronicles a ex:VideoGame ;
-    ex:hasTitle "Final Fantasy Tactics : The Ivalice Chronicles"^^xsd:string .
-
-ex:Final_Fantasy_VII_Rebirth a ex:VideoGame ;
-    ex:hasTitle "Final Fantasy VII Rebirth"^^xsd:string ;
     ex:isPlayedOn ex:PC .
 
 ex:Final_Fantasy_VII_Remake a ex:VideoGame ;
     ex:hasTitle "Final Fantasy VII Remake"^^xsd:string ;
     ex:isPlayedOn ex:Switch_2 .
 
-ex:Fitness_Boxing_3__Your_Personal_Trainer a ex:VideoGame ;
-    ex:hasTitle "Fitness Boxing 3 : Your Personal Trainer"^^xsd:string ;
-    ex:isPlayedOn ex:Switch .
-
-ex:Football_Manager_26 a ex:VideoGame ;
-    ex:hasTitle "Football Manager 26"^^xsd:string ;
-    ex:isPlayedOn ex:PC .
-
-ex:Ghost_of_Yotei a ex:VideoGame ;
-    ex:hasTitle "Ghost of Yotei"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
 ex:God_of_War_Sons_of_Sparta a ex:VideoGame ;
     ex:hasTitle "God of War: Sons of Sparta"^^xsd:string ;
     ex:isPlayedOn ex:PS5 .
-
-ex:Hades_II a ex:VideoGame ;
-    ex:hasTitle "Hades II"^^xsd:string .
-
-ex:Hell_is_Us a ex:VideoGame ;
-    ex:hasTitle "Hell is Us"^^xsd:string .
 
 ex:Highguard a ex:VideoGame ;
     ex:hasTitle "Highguard"^^xsd:string ;
     ex:isPlayedOn ex:PC .
 
-<http://example.org/videogame/Hogwarts_Legacy__l'Héritage_de_Poudlard> a ex:VideoGame ;
-    ex:hasTitle "Hogwarts Legacy : l'Héritage de Poudlard"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:Hollow_Knight__Silksong a ex:VideoGame ;
-    ex:hasTitle "Hollow Knight : Silksong"^^xsd:string .
-
-ex:Horizon__Zero_Dawn a ex:VideoGame ;
-    ex:hasTitle "Horizon : Zero Dawn"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
-ex:Hyrule_Warriors__Les_Chroniques_du_Sceau a ex:VideoGame ;
-    ex:hasTitle "Hyrule Warriors : Les Chroniques du Sceau"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
 ex:Hytale a ex:VideoGame ;
     ex:hasTitle "Hytale"^^xsd:string ;
     ex:isPlayedOn ex:PC .
-
-ex:Indiana_Jones_et_le_Cercle_Ancien a ex:VideoGame ;
-    ex:hasTitle "Indiana Jones et le Cercle Ancien"^^xsd:string .
-
-ex:Kingdom_Come_Deliverance_2 a ex:VideoGame ;
-    ex:hasTitle "Kingdom Come Deliverance 2"^^xsd:string .
-
-ex:Kirby_Air_Riders a ex:VideoGame ;
-    ex:hasTitle "Kirby Air Riders"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:Kirby_et_le_Monde_Oublié a ex:VideoGame ;
-    ex:hasTitle "Kirby et le Monde Oublié"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-<http://example.org/videogame/L'Amerzone__Le_Testament_de_l'Explorateur> a ex:VideoGame ;
-    ex:hasTitle "L'Amerzone : Le Testament de l'Explorateur"^^xsd:string .
-
-ex:LEGO_Horizon_Adventures a ex:VideoGame ;
-    ex:hasTitle "LEGO Horizon Adventures"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
-ex:Les_Fourmis a ex:VideoGame ;
-    ex:hasTitle "Les Fourmis"^^xsd:string .
-
-<http://example.org/videogame/Les_Schtroumpfs__l'épopée_des_rêves> a ex:VideoGame ;
-    ex:hasTitle "Les Schtroumpfs : l'épopée des rêves"^^xsd:string .
-
-ex:Les_Sims_4__À_la_vie_à_la_mort a ex:VideoGame ;
-    ex:hasTitle "Les Sims 4 : À la vie à la mort"^^xsd:string .
-
-ex:Life_is_Strange__Double_Exposure a ex:VideoGame ;
-    ex:hasTitle "Life is Strange : Double Exposure"^^xsd:string .
-
-ex:Like_a_Dragon__Infinite_Wealth a ex:VideoGame ;
-    ex:hasTitle "Like a Dragon : Infinite Wealth"^^xsd:string .
-
-ex:Like_a_Dragon__Pirate_Yakuza_in_Hawaii a ex:VideoGame ;
-    ex:hasTitle "Like a Dragon : Pirate Yakuza in Hawaii"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
-ex:Lost_Soul_Aside a ex:VideoGame ;
-    ex:hasTitle "Lost Soul Aside"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
-ex:Légendes_Pokémon_Z-A a ex:VideoGame ;
-    ex:hasTitle "Légendes Pokémon Z-A"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-<http://example.org/videogame/Légendes_Pokémon__Z-A_–_Méga-Dimension> a ex:VideoGame ;
-    ex:hasTitle "Légendes Pokémon : Z-A – Méga-Dimension"^^xsd:string .
-
-ex:Mafia__The_Old_Country a ex:VideoGame ;
-    ex:hasTitle "Mafia : The Old Country"^^xsd:string .
 
 ex:Marathon a ex:VideoGame ;
     ex:hasTitle "Marathon"^^xsd:string ;
     ex:isPlayedOn ex:PS5 .
 
-<http://example.org/videogame/Mario_&_Luigi__L'épopée_fraternelle> a ex:VideoGame ;
-    ex:hasTitle "Mario & Luigi : L'épopée fraternelle"^^xsd:string ;
-    ex:isPlayedOn ex:Switch .
-
-ex:Mario_Kart_World a ex:VideoGame ;
-    ex:hasTitle "Mario Kart World"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
 ex:Mario_Tennis_Fever a ex:VideoGame ;
     ex:hasTitle "Mario Tennis Fever"^^xsd:string ;
     ex:isPlayedOn ex:Switch_2 .
 
-ex:Metal_Gear_Solid_Delta__Snake_Eater a ex:VideoGame ;
-    ex:hasTitle "Metal Gear Solid Delta : Snake Eater"^^xsd:string .
-
-ex:Metal_Slug_Tactics a ex:VideoGame ;
-    ex:hasTitle "Metal Slug Tactics"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
-ex:Metroid_Prime_4__Beyond a ex:VideoGame ;
-    ex:hasTitle "Metroid Prime 4 : Beyond"^^xsd:string ;
-    ex:isPlayedOn ex:Switch,
-        ex:Switch_2 .
-
 ex:Mewgenics a ex:VideoGame ;
     ex:hasTitle "Mewgenics"^^xsd:string ;
     ex:isPlayedOn ex:PC .
-
-ex:Microsoft_Flight_Simulator_2024 a ex:VideoGame ;
-    ex:hasTitle "Microsoft Flight Simulator 2024"^^xsd:string .
 
 ex:Mio__Memories_in_Orbit a ex:VideoGame ;
     ex:hasTitle "Mio : Memories in Orbit"^^xsd:string .
@@ -280,137 +55,27 @@ ex:Mio__Memories_in_Orbit a ex:VideoGame ;
 ex:Monster_Hunter_Stories_3_Twisted_Reflection a ex:VideoGame ;
     ex:hasTitle "Monster Hunter Stories 3: Twisted Reflection"^^xsd:string .
 
-ex:Monster_Hunter_Wilds a ex:VideoGame ;
-    ex:hasTitle "Monster Hunter Wilds"^^xsd:string .
-
-ex:NBA_2K26 a ex:VideoGame ;
-    ex:hasTitle "NBA 2K26"^^xsd:string .
-
-ex:Ninja_Gaiden_4 a ex:VideoGame ;
-    ex:hasTitle "Ninja Gaiden 4"^^xsd:string .
-
-ex:Ninja_Gaiden__Ragebound a ex:VideoGame ;
-    ex:hasTitle "Ninja Gaiden : Ragebound"^^xsd:string .
-
 ex:Nioh_3 a ex:VideoGame ;
     ex:hasTitle "Nioh 3"^^xsd:string .
-
-ex:PGA_Tour_2K25 a ex:VideoGame ;
-    ex:hasTitle "PGA Tour 2K25"^^xsd:string ;
-    ex:isPlayedOn ex:PS5 .
-
-ex:Path_of_Exile_2 a ex:VideoGame ;
-    ex:hasTitle "Path of Exile 2"^^xsd:string .
-
-ex:Planet_Coaster_2 a ex:VideoGame ;
-    ex:hasTitle "Planet Coaster 2"^^xsd:string .
 
 ex:Pokémon_Pokopia a ex:VideoGame ;
     ex:hasTitle "Pokémon Pokopia"^^xsd:string ;
     ex:isPlayedOn ex:Switch_2 .
 
-ex:Red_Dead_Redemption a ex:VideoGame ;
-    ex:hasTitle "Red Dead Redemption"^^xsd:string ;
-    ex:isPlayedOn ex:PC .
-
-ex:Rematch a ex:VideoGame ;
-    ex:hasTitle "Rematch"^^xsd:string .
-
 ex:Resident_Evil_Requiem a ex:VideoGame ;
     ex:hasTitle "Resident Evil Requiem"^^xsd:string .
-
-ex:Rogue_Prince_of_Persia a ex:VideoGame ;
-    ex:hasTitle "Rogue Prince of Persia"^^xsd:string .
-
-ex:S.T.A.L.K.E.R._2__The_Heart_of_Chornobyl a ex:VideoGame ;
-    ex:hasTitle "S.T.A.L.K.E.R. 2 : The Heart of Chornobyl"^^xsd:string .
-
-ex:SHINOBI__Art_of_Vengeance a ex:VideoGame ;
-    ex:hasTitle "SHINOBI : Art of Vengeance"^^xsd:string .
-
-ex:Silent_Hill_f a ex:VideoGame ;
-    ex:hasTitle "Silent Hill f"^^xsd:string .
-
-ex:South_of_Midnight a ex:VideoGame ;
-    ex:hasTitle "South of Midnight"^^xsd:string .
-
-ex:Space_Adventure_Cobra_-_The_Awakening a ex:VideoGame ;
-    ex:hasTitle "Space Adventure Cobra - The Awakening"^^xsd:string .
-
-ex:Split_Fiction a ex:VideoGame ;
-    ex:hasTitle "Split Fiction"^^xsd:string .
-
-ex:Street_Fighter_6 a ex:VideoGame ;
-    ex:hasTitle "Street Fighter 6"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
 
 ex:Styx__Blades_of_Greed a ex:VideoGame ;
     ex:hasTitle "Styx : Blades of Greed"^^xsd:string ;
     ex:isPlayedOn ex:PS5 .
 
-<http://example.org/videogame/Suikoden_I_&_II_HD_Remaster _Gate_Rune_and_Dunan_Unification_Wars> a ex:VideoGame ;
-    ex:hasTitle "Suikoden I & II HD Remaster : Gate Rune and Dunan Unification Wars"^^xsd:string .
-
-ex:Super_Mario_Galaxy a ex:VideoGame ;
-    ex:hasTitle "Super Mario Galaxy"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:Tales_of_Graces_f_Remastered a ex:VideoGame ;
-    ex:hasTitle "Tales of Graces f Remastered"^^xsd:string .
-
-ex:The_Elder_Scrolls_IV__Oblivion_Remastered a ex:VideoGame ;
-    ex:hasTitle "The Elder Scrolls IV : Oblivion Remastered"^^xsd:string .
-
-ex:The_First_Berserker__Khazan a ex:VideoGame ;
-    ex:hasTitle "The First Berserker : Khazan"^^xsd:string .
-
-ex:The_Legend_of_Zelda__Breath_of_the_Wild a ex:VideoGame ;
-    ex:hasTitle "The Legend of Zelda : Breath of the Wild"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:The_Outer_Worlds_2 a ex:VideoGame ;
-    ex:hasTitle "The Outer Worlds 2"^^xsd:string .
-
-ex:Towers_of_Aghasba a ex:VideoGame ;
-    ex:hasTitle "Towers of Aghasba"^^xsd:string ;
-    ex:isPlayedOn ex:PC .
-
-ex:Trails_in_the_Sky_1st_Chapter a ex:VideoGame ;
-    ex:hasTitle "Trails in the Sky 1st Chapter"^^xsd:string .
-
-ex:Two_Point_Museum a ex:VideoGame ;
-    ex:hasTitle "Two Point Museum"^^xsd:string .
-
-ex:Vampire_The_Masquerade_-_Bloodlines_2 a ex:VideoGame ;
-    ex:hasTitle "Vampire: The Masquerade - Bloodlines 2"^^xsd:string .
-
-ex:WWE_2K25 a ex:VideoGame ;
-    ex:hasTitle "WWE 2K25"^^xsd:string .
-
-ex:Wuchang__Fallen_Feathers a ex:VideoGame ;
-    ex:hasTitle "Wuchang : Fallen Feathers"^^xsd:string .
-
-ex:Xenoblade_Chronicles_X a ex:VideoGame ;
-    ex:hasTitle "Xenoblade Chronicles X"^^xsd:string ;
-    ex:isPlayedOn ex:Switch .
-
 <http://example.org/videogame/Yakuza_Kiwami_3_&_Dark_Ties> a ex:VideoGame ;
     ex:hasTitle "Yakuza Kiwami 3 & Dark Ties"^^xsd:string ;
     ex:isPlayedOn ex:PC .
 
-ex:Zelda_Tears_of_the_Kingdom a ex:VideoGame ;
-    ex:hasTitle "Zelda Tears of the Kingdom"^^xsd:string ;
-    ex:isPlayedOn ex:Switch_2 .
-
-ex:inZOI a ex:VideoGame ;
-    ex:hasTitle "inZOI"^^xsd:string ;
-    ex:isPlayedOn ex:PC .
-
-ex:Switch a ex:Platform .
-
-ex:PC a ex:Platform .
-
 ex:PS5 a ex:Platform .
 
 ex:Switch_2 a ex:Platform .
+
+ex:PC a ex:Platform .
 

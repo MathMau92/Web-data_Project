@@ -1,0 +1,240 @@
+[
+    {
+        "raw": "TestMewgenics sur PC",
+        "clean_title": "Mewgenics",
+        "detected_platform": "PC",
+        "entities": [
+            {
+                "text": "Mewgenics",
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "raw": "TestResident Evil Requiem",
+        "clean_title": "Resident Evil Requiem",
+        "detected_platform": null,
+        "entities": [
+            {
+                "text": "Resident Evil Requiem",
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "raw": "TestArknights : Endfield",
+        "clean_title": "Arknights : Endfield",
+        "detected_platform": null,
+        "entities": [
+            {
+                "text": "Arknights",
+                "type": "LOC"
+            },
+            {
+                "text": "Endfield",
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "raw": "TestYakuza Kiwami 3 & Dark Ties sur PC",
+        "clean_title": "Yakuza Kiwami 3 & Dark Ties",
+        "detected_platform": "PC",
+        "entities": [
+            {
+                "text": "Yakuza Kiwami 3 & Dark",
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "raw": "TestMarathon sur PS5",
+        "clean_title": "Marathon",
+        "detected_platform": "PS5",
+        "entities": []
+    },
+    {
+        "raw": "TestMario Tennis Fever sur Switch 2",
+        "clean_title": "Mario Tennis Fever",
+        "detected_platform": "Switch 2",
+        "entities": [
+            {
+                "text": "Mario Tennis",
+                "type": "GAME"
+            }
+        ]
+    },
+    {
+        "raw": "TestAvatar : Frontiers of Pandora - D'entre les Cendres",
+        "clean_title": "Avatar : Frontiers of Pandora - D'entre les Cendres",
+        "detected_platform": null,
+        "entities": [
+            {
+                "text": "Avatar",
+                "type": "LOC"
+            },
+            {
+                "text": "Frontiers of Pandora",
+                "type": "MISC"
+            },
+            {
+                "text": "Cendres",
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "raw": "TestMio : Memories in Orbit",
+        "clean_title": "Mio : Memories in Orbit",
+        "detected_platform": null,
+        "entities": [
+            {
+                "text": "Mio :",
+                "type": "MISC"
+            },
+            {
+                "text": "Memories in Orbit",
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "raw": "TestAnimal Crossing : New Horizons sur Switch 2",
+        "clean_title": "Animal Crossing : New Horizons",
+        "detected_platform": "Switch 2",
+        "entities": [
+            {
+                "text": "Animal Crossing",
+                "type": "PER"
+            },
+            {
+                "text": "New Horizons",
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "raw": "TestMonster Hunter Stories 3: Twisted Reflection",
+        "clean_title": "Monster Hunter Stories 3: Twisted Reflection",
+        "detected_platform": null,
+        "entities": [
+            {
+                "text": "Monster Hunter Stories 3:",
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "raw": "TestEscape From Tarkov sur PC",
+        "clean_title": "Escape From Tarkov",
+        "detected_platform": "PC",
+        "entities": [
+            {
+                "text": "Escape From Tarkov",
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "raw": "TestFinal Fantasy VII Remake sur Switch 2",
+        "clean_title": "Final Fantasy VII Remake",
+        "detected_platform": "Switch 2",
+        "entities": []
+    },
+    {
+        "raw": "TestStyx : Blades of Greed sur PS5",
+        "clean_title": "Styx : Blades of Greed",
+        "detected_platform": "PS5",
+        "entities": [
+            {
+                "text": "Styx",
+                "type": "PER"
+            },
+            {
+                "text": "Blades of Greed",
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "raw": "TestCairn",
+        "clean_title": "Cairn",
+        "detected_platform": null,
+        "entities": [
+            {
+                "text": "Cairn",
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "raw": "TestHytale sur PC",
+        "clean_title": "Hytale",
+        "detected_platform": "PC",
+        "entities": [
+            {
+                "text": "Hytale",
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "raw": "TestGod of War: Sons of Sparta sur PS5",
+        "clean_title": "God of War: Sons of Sparta",
+        "detected_platform": "PS5",
+        "entities": [
+            {
+                "text": "God of War:",
+                "type": "MISC"
+            },
+            {
+                "text": "Sons of Sparta",
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "raw": "TestNioh 3",
+        "clean_title": "Nioh 3",
+        "detected_platform": null,
+        "entities": [
+            {
+                "text": "Nioh 3",
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "raw": "TestDRAGON QUEST VII Reimagined",
+        "clean_title": "DRAGON QUEST VII Reimagined",
+        "detected_platform": null,
+        "entities": [
+            {
+                "text": "DRAGON QUEST VII Reimagined",
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "raw": "TestHighguard sur PC",
+        "clean_title": "Highguard",
+        "detected_platform": "PC",
+        "entities": [
+            {
+                "text": "Highguard",
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "raw": "TestPokémon Pokopia sur Switch 2",
+        "clean_title": "Pokémon Pokopia",
+        "detected_platform": "Switch 2",
+        "entities": [
+            {
+                "text": "Pokémon Pokopia",
+                "type": "PER"
+            }
+        ]
+    }
+]
