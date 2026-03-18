@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# --- Données Lourdes ---
+# On ignore les gros datasets bruts, mais on garde les petits échantillons
+data/*
+!data/.gitkeep
+# Si les modèles KGE sont lourds (>100MB), on ignore
+*.pth
+*.bin
+*.model
+
+# --- Systèmes ---
+.DS_Store
+Thumbs.db
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+
+# --- Spécifique au projet ---
+# On évite d'envoyer les dossiers de logs ou de sorties temporaires
+logs/
