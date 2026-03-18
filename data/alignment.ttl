@@ -1,0 +1,43 @@
+@prefix ex: <http://example.org/vg/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+ex:Animal_Crossing__New_Horizons owl:sameAs <http://dbpedia.org/resource/Animal_Crossing:_New_Horizons> .
+
+ex:Arknights__Endfield owl:sameAs <http://dbpedia.org/resource/Arknights> .
+
+<http://example.org/vg/Avatar__Frontiers_of_Pandora_-_D'entre_les_Cendres> owl:sameAs <http://dbpedia.org/resource/Insect> .
+
+ex:Cairn owl:sameAs <http://dbpedia.org/resource/Cairo> .
+
+ex:DRAGON_QUEST_VII_Reimagined owl:sameAs <http://dbpedia.org/resource/Square_Enix> .
+
+ex:Escape_From_Tarkov owl:sameAs <http://dbpedia.org/resource/Escape_from_Tarkov> .
+
+ex:Final_Fantasy_VII_Remake owl:sameAs <http://dbpedia.org/resource/Final_Fantasy_VII_Remake> .
+
+ex:God_of_War_Sons_of_Sparta owl:sameAs <http://dbpedia.org/resource/World_War_II> .
+
+ex:Highguard owl:sameAs <http://dbpedia.org/resource/Diving_at_the_1948_Summer_Olympics_–_Women's_10_metre_platform> .
+
+ex:Hytale owl:sameAs <http://dbpedia.org/resource/Hytale> .
+
+ex:Marathon owl:sameAs <http://dbpedia.org/resource/C.D._Marathón> .
+
+ex:Mario_Tennis_Fever owl:sameAs <http://dbpedia.org/resource/VfL_Osnabrück> .
+
+ex:Mewgenics owl:sameAs <http://dbpedia.org/resource/Quantum_mechanics> .
+
+ex:Mio__Memories_in_Orbit owl:sameAs <http://dbpedia.org/resource/United_States> .
+
+ex:Monster_Hunter_Stories_3_Twisted_Reflection owl:sameAs <http://dbpedia.org/resource/Forward_(association_football)> .
+
+ex:Nioh_3 owl:sameAs <http://dbpedia.org/resource/Forward_(association_football)> .
+
+ex:Pokémon_Pokopia owl:sameAs <http://dbpedia.org/resource/Pokémon_Battle_Revolution> .
+
+ex:Resident_Evil_Requiem owl:sameAs <http://dbpedia.org/resource/Capcom> .
+
+ex:Styx__Blades_of_Greed owl:sameAs <http://dbpedia.org/resource/Arthropod> .
+
+<http://example.org/vg/Yakuza_Kiwami_3_&_Dark_Ties> owl:sameAs <http://dbpedia.org/resource/Forward_(association_football)> .
+
