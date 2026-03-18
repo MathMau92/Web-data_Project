@@ -1,0 +1,75 @@
+<http://example.org/vg/Resident_Evil_Requiem> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Capcom> .
+<http://example.org/videogame/Yakuza_Kiwami_3_&_Dark_Ties> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/vg/Hytale> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hytale> .
+<http://example.org/videogame/Escape_From_Tarkov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/vg/Arknights__Endfield> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Arknights> .
+<http://example.org/videogame/Highguard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Hytale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Mario_Tennis_Fever> <http://example.org/videogame/hasTitle> "Mario Tennis Fever"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/God_of_War_Sons_of_Sparta> <http://example.org/videogame/hasTitle> "God of War: Sons of Sparta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Avatar__Frontiers_of_Pandora_-_D'entre_les_Cendres> <http://example.org/videogame/hasTitle> "Avatar : Frontiers of Pandora - D'entre les Cendres"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Pokémon_Pokopia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/vg/Highguard> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Diving_at_the_1948_Summer_Olympics_–_Women's_10_metre_platform> .
+<http://example.org/videogame/Hytale> <http://example.org/videogame/hasTitle> "Hytale"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/vg/Escape_From_Tarkov> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Escape_from_Tarkov> .
+<http://example.org/videogame/Cairn> <http://example.org/videogame/hasTitle> "Cairn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Animal_Crossing__New_Horizons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/vg/Pokémon_Pokopia> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Pokémon_Battle_Revolution> .
+<http://example.org/videogame/Marathon> <http://example.org/videogame/hasTitle> "Marathon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/vg/Mio__Memories_in_Orbit> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/United_States> .
+<http://example.org/videogame/Marathon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Resident_Evil_Requiem> <http://example.org/videogame/hasTitle> "Resident Evil Requiem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/God_of_War_Sons_of_Sparta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Pokémon_Pokopia> <http://example.org/videogame/hasTitle> "Pokémon Pokopia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Nioh_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Monster_Hunter_Stories_3_Twisted_Reflection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Pokémon_Pokopia> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/Switch_2> .
+<http://example.org/videogame/Arknights__Endfield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Marathon> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/PS5> .
+<http://example.org/videogame/Highguard> <http://example.org/videogame/hasTitle> "Highguard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/PC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/Platform> .
+<http://example.org/vg/Mario_Tennis_Fever> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/VfL_Osnabrück> .
+<http://example.org/videogame/Final_Fantasy_VII_Remake> <http://example.org/videogame/hasTitle> "Final Fantasy VII Remake"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Styx__Blades_of_Greed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Cairn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/vg/DRAGON_QUEST_VII_Reimagined> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Square_Enix> .
+<http://example.org/vg/Monster_Hunter_Stories_3_Twisted_Reflection> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Forward_(association_football)> .
+<http://example.org/videogame/Styx__Blades_of_Greed> <http://example.org/videogame/hasTitle> "Styx : Blades of Greed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Mario_Tennis_Fever> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Nioh_3> <http://example.org/videogame/hasTitle> "Nioh 3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Escape_From_Tarkov> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/PC> .
+<http://example.org/videogame/Final_Fantasy_VII_Remake> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/Switch_2> .
+<http://example.org/videogame/DRAGON_QUEST_VII_Reimagined> <http://example.org/videogame/hasTitle> "DRAGON QUEST VII Reimagined"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/vg/Cairn> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Cairo> .
+<http://example.org/videogame/PS5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/Platform> .
+<http://example.org/videogame/DRAGON_QUEST_VII_Reimagined> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/vg/Nioh_3> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Forward_(association_football)> .
+<http://example.org/videogame/Mio__Memories_in_Orbit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Mario_Tennis_Fever> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/Switch_2> .
+<http://example.org/vg/Avatar__Frontiers_of_Pandora_-_D'entre_les_Cendres> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Insect> .
+<http://example.org/vg/Animal_Crossing__New_Horizons> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Animal_Crossing:_New_Horizons> .
+<http://example.org/vg/Styx__Blades_of_Greed> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Arthropod> .
+<http://example.org/videogame/Mewgenics> <http://example.org/videogame/hasTitle> "Mewgenics"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Avatar__Frontiers_of_Pandora_-_D'entre_les_Cendres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Yakuza_Kiwami_3_&_Dark_Ties> <http://example.org/videogame/hasTitle> "Yakuza Kiwami 3 & Dark Ties"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Escape_From_Tarkov> <http://example.org/videogame/hasTitle> "Escape From Tarkov"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Final_Fantasy_VII_Remake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Mio__Memories_in_Orbit> <http://example.org/videogame/hasTitle> "Mio : Memories in Orbit"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/vg/Final_Fantasy_VII_Remake> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Final_Fantasy_VII_Remake> .
+<http://example.org/videogame/Animal_Crossing__New_Horizons> <http://example.org/videogame/hasTitle> "Animal Crossing : New Horizons"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/Monster_Hunter_Stories_3_Twisted_Reflection> <http://example.org/videogame/hasTitle> "Monster Hunter Stories 3: Twisted Reflection"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/videogame/God_of_War_Sons_of_Sparta> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/PS5> .
+<http://example.org/videogame/Resident_Evil_Requiem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Animal_Crossing__New_Horizons> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/Switch_2> .
+<http://example.org/videogame/Mewgenics> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/PC> .
+<http://example.org/vg/Mewgenics> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Quantum_mechanics> .
+<http://example.org/videogame/Arknights__Endfield> <http://example.org/videogame/hasTitle> "Arknights : Endfield"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/vg/Marathon> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/C.D._Marathón> .
+<http://example.org/vg/God_of_War_Sons_of_Sparta> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/World_War_II> .
+<http://example.org/videogame/Styx__Blades_of_Greed> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/PS5> .
+<http://example.org/videogame/Highguard> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/PC> .
+<http://example.org/videogame/Hytale> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/PC> .
+<http://example.org/videogame/Mewgenics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/VideoGame> .
+<http://example.org/videogame/Switch_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/videogame/Platform> .
+<http://example.org/vg/Yakuza_Kiwami_3_&_Dark_Ties> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Forward_(association_football)> .
+<http://example.org/videogame/Yakuza_Kiwami_3_&_Dark_Ties> <http://example.org/videogame/isPlayedOn> <http://example.org/videogame/PC> .
